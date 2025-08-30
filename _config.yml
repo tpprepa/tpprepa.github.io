@@ -28,7 +28,7 @@ url: "https://tpprepa.github.io" # the base hostname & protocol for your site, e
 github_username:  tpprepa
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
