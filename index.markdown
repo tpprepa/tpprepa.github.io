@@ -9,4 +9,4 @@ description: Page temporaire de lien vers les tps de prépa
 
 
 
-- [TP d'introduction au python](TPs/intro.ipynb)
+- [TP d'introduction au python](https://github.com/tpprepa/tpprepa.github.io/raw/main/TPs/intro.ipynb)
