@@ -4,11 +4,14 @@ layout: default
 description: Page temporaire de lien vers les tps de prépa
 ---
 
-# Informations utiles
-- [fiche élémentaire de syntaxe python](TPs/fiche.ipynb)
-- Pour enregistrer les fichiers, cliquez sur le lien, un fichier texte incompréhensible va s'ouvrir. C'est normal, appuyez simplement sur CTRL + S pour sauvegarder le fichier. 
-
+Pour enregistrer les fichiers `.ipynb`, cliquez sur le lien, un fichier texte incompréhensible va s'ouvrir. C'est normal, appuyez simplement sur CTRL + S pour sauvegarder le fichier. 
 Vous pouvez ensuite l'ouvrir sur basthon.
+
+# Informations et ressources utiles
+- [fiche élémentaire de syntaxe python](notebook.basthon.fr/?from=https://raw.githubusercontent.com/tpprepa/tpprepa.github.io/main/TPs/fiche.ipynb)
+- [Un memento concentré de la syntaxe python](TPs/MementoPT.pdf)
+- [Un memento concentré de la syntaxe SQL](TPs/MementoSQL.pdf)
+
 # 2025-2026
 
 ## MPSI 
