@@ -8,7 +8,7 @@ Pour enregistrer les fichiers `.ipynb`, cliquez sur le lien, un fichier texte in
 Vous pouvez ensuite l'ouvrir sur basthon.
 
 # Informations et ressources utiles
-- [fiche élémentaire de syntaxe python](notebook.basthon.fr/?from=https://raw.githubusercontent.com/tpprepa/tpprepa.github.io/main/TPs/fiche.ipynb)
+- [fiche élémentaire de syntaxe python](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/tpprepa/tpprepa.github.io/main/TPs/fiche.ipynb)
 - [Un memento concentré de la syntaxe python](TPs/MementoPT.pdf)
 - [Un memento concentré de la syntaxe SQL](TPs/MementoSQL.pdf)
 
