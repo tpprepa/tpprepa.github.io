@@ -27,3 +27,9 @@ Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.ba
 - [TP difficile](TPs/percol.ipynb)
 
 Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.basthon.fr/?kernel=python&module=https://raw.githubusercontent.com/tpprepa/tpprepa.github.io/main/TPs/annexe/tp0.py).
+
+## Option info 
+
+- [TP de révision](TPs/ocamloption.ipynb)
+
+À ouvrir [ici](https://notebook.basthon.fr/?kernel=ocaml).
