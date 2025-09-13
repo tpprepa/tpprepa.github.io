@@ -17,9 +17,9 @@ Vous pouvez ensuite l'ouvrir sur basthon.
 ## MPSI 
 
 <details>
-<summary> </summary> 
+<summary> Anciens TPs </summary> 
 
-### TP 1
+#### TP 1
 
 - [TP d'introduction au python](TPs/intro.ipynb)
 
@@ -30,9 +30,9 @@ Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.ba
 
 <details>
 
-<summary> </summary> 
+<summary> Anciens TPs </summary> 
 
-### TP 1
+#### TP 1
 
 - [TP facile](TPs/motifs.ipynb)
 - [TP difficile](TPs/percol.ipynb)
@@ -40,7 +40,7 @@ Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.ba
 Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.basthon.fr/?kernel=python&module=https://raw.githubusercontent.com/tpprepa/tpprepa.github.io/main/TPs/annexe/tp0.py).
 </details>
 
-### TP 2
+#### TP 2
 
 Attention, TP à ouvrir sur [ce lien](https://notebook.basthon.fr/?kernel=sql&module=https://raw.githubusercontent.com/Lamakaio/enseig/refs/heads/main/ITC/S3/sql/TP2/EnseignementSup.db) pour pouvoir accéder à la base de donnée ! 
 
