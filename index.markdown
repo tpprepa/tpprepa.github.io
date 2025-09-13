@@ -16,8 +16,10 @@ Vous pouvez ensuite l'ouvrir sur basthon.
 
 ## MPSI 
 
-### TP 1
 <details>
+<summary> </summary> 
+### TP 1
+
 - [TP d'introduction au python](TPs/intro.ipynb)
 
 Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.basthon.fr/?kernel=python).
@@ -25,8 +27,10 @@ Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.ba
 
 ## MP
 
-### TP 1
 <details>
+
+<summary> </summary> 
+### TP 1
 
 - [TP facile](TPs/motifs.ipynb)
 - [TP difficile](TPs/percol.ipynb)
