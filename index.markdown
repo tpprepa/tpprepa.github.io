@@ -18,6 +18,7 @@ Vous pouvez ensuite l'ouvrir sur basthon.
 
 <details>
 <summary> </summary> 
+
 ### TP 1
 
 - [TP d'introduction au python](TPs/intro.ipynb)
@@ -30,6 +31,7 @@ Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.ba
 <details>
 
 <summary> </summary> 
+
 ### TP 1
 
 - [TP facile](TPs/motifs.ipynb)
