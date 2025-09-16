@@ -36,6 +36,8 @@ Les fichiers sont à charger sur basthon, à [cette adresse](https://notebook.ba
 
 #### TP 2
 
+- [TP SQL](TPs/tp2.ipynb)
+
 Attention, TP à ouvrir sur [ce lien](https://notebook.basthon.fr/?kernel=sql&module=https://raw.githubusercontent.com/Lamakaio/enseig/refs/heads/main/ITC/S3/sql/TP2/EnseignementSup.db) pour pouvoir accéder à la base de donnée ! 
 
 ## Option info 
