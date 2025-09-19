@@ -44,5 +44,6 @@ Attention, TP à ouvrir sur [ce lien](https://notebook.basthon.fr/?kernel=sql&mo
 ## Option info 
 
 - [TP de révision](TPs/ocamloption.ipynb)
+- [Exercice difficile sur 2-SAT](TPs/exo2SAT.pdf)
 
 À ouvrir [ici](https://notebook.basthon.fr/?kernel=ocaml).
