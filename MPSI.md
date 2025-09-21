@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Page pour les MP option info
+description: Page pour les MPSI
 title: MPSI
 ---
 
@@ -14,10 +14,10 @@ Vous pouvez ensuite l'ouvrir sur le lien donné.
 
 # Cours
 
-+ [Cours d'introduction](Cours/mpsi_1_intro.pdf)
-+ [Cours algorithmes et complexité](Cours/mpsi_2_complex.pdf)
++ 1- [Cours d'introduction](Cours/mpsi_1_intro.pdf)
++ 2- [Cours algorithmes et complexité](Cours/mpsi_2_complex.pdf)
 
 # TPs
 
-+ [TP d'introduction](TPs/mpsi_1_intro.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python)
-+ [TP listes](TPs/mpsi_2_listes.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python)
++ 1- [TP d'introduction](TPs/mpsi_1_intro.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python)
++ 2- [TP listes](TPs/mpsi_2_listes.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python)

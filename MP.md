@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Page pour les MP option info
+description: Page pour les MP 
 title: MP
 ---
 
@@ -15,10 +15,10 @@ Vous pouvez ensuite l'ouvrir sur le lien donné.
 
 # Cours
 
-+ [Cours sur le SQL](Cours/mp_1_sql.pdf)
-+ [Cours sur les test / preuves](Cours/mp_2_test.pdf)
++ 1- [Cours sur le SQL](Cours/mp_1_sql.pdf)
++ 2- [Cours sur les test / preuves](Cours/mp_2_test.pdf)
 
 # TPs
 
-+ [TP intro facile](TPs/mp_1_motifs.ipynb), [TP intro difficile](TPs/mp_1_percol.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python&module=https://raw.githubusercontent.com/tpprepa/tpprepa.github.io/main/TPs/annexe/tp0.py).
-+ [TP SQL](TPs/mp_2_sql.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=sql&module=https://raw.githubusercontent.com/Lamakaio/enseig/refs/heads/main/ITC/S3/sql/TP2/EnseignementSup.db)
++ 1- [TP intro facile](TPs/mp_1_motifs.ipynb), [TP intro difficile](TPs/mp_1_percol.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python&module=https://raw.githubusercontent.com/tpprepa/tpprepa.github.io/main/TPs/annexe/tp0.py).
++ 2- [TP SQL](TPs/mp_2_sql.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=sql&module=https://raw.githubusercontent.com/Lamakaio/enseig/refs/heads/main/ITC/S3/sql/TP2/EnseignementSup.db)
