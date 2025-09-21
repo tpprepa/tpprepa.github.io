@@ -12,5 +12,5 @@ title: MP option info
 
 # TPs
 
-- 1- [TP révision OCaml](TPs/mp_opt_1_intro.ipynb)
+- 1- [TP révision OCaml](TPs/mp_opt_1_intro.ipynb) à ouvrir sur [ce lien](https://notebook.basthon.fr/?kernel=ocaml)
 - 1 bonus- [Exercice difficile sur 2-SAT](TPs/mp_opt_1_2sat.pdf)
