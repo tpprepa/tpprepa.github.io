@@ -16,8 +16,10 @@ Vous pouvez ensuite l'ouvrir sur le lien donné.
 
 + 1- [Cours d'introduction](Cours/mpsi_1_intro.pdf)
 + 2- [Cours algorithmes et complexité](Cours/mpsi_2_complex.pdf)
-
++ 3- [Cours tris quadratiques](https://github.com/Lamakaio/enseig/raw/main/ITC/S1/C3/slides.pdf)
 # TPs
 
 + 1- [TP d'introduction](TPs/mpsi_1_intro.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python)
 + 2- [TP listes](TPs/mpsi_2_listes.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python)
++ 3- TP jeu de la vie 8faf-7346145, correction 2ba1-7333465
++ 4- TP tris 63ce-7583872
