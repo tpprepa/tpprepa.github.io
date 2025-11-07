@@ -17,6 +17,7 @@ Vous pouvez ensuite l'ouvrir sur le lien donné.
 + 1- [Cours d'introduction](Cours/mpsi_1_intro.pdf)
 + 2- [Cours algorithmes et complexité](Cours/mpsi_2_complex.pdf)
 + 3- [Cours tris quadratiques](https://github.com/Lamakaio/enseig/raw/main/ITC/S1/C3/slides.pdf)
++ 4- [Cours recherche et dichotomie](https://github.com/Lamakaio/enseig/raw/main/ITC/S1/C4/slides.pdf)
 # TPs
 
 + 1- [TP d'introduction](TPs/mpsi_1_intro.ipynb) à ouvrir avec [ce lien](https://notebook.basthon.fr/?kernel=python)
