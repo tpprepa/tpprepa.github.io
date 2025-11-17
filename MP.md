@@ -19,6 +19,7 @@ Vous pouvez ensuite l'ouvrir sur le lien donné.
 + 2- [Cours sur les test / preuves](Cours/mp_2_test.pdf)
 + 3- Cours sur les structures de données : tableau.
 + 4- [Cours sur les parcours de graphe](https://github.com/Lamakaio/enseig/raw/main/ITC/S3/parcours_graphes/cours.pdf)
++ 5- [Ressources sur la dichotomie](dichotomie.md)
 
 # TPs
 
