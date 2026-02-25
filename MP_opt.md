@@ -9,7 +9,9 @@ title: MP option info
 - [Un cours complet de OCaml très bien écrit](Fiches/CoursOcaml.pdf)
 
 # Cours
-
+- [languages et expressions régulières](https://github.com/Lamakaio/enseig/raw/main/option/S2/Languages/slides.pdf)
+- [recap automates](https://github.com/Lamakaio/enseig/raw/main/option/S2/recap%20automates/fiche.pdf)
+- [logique](https://github.com/Lamakaio/enseig/raw/main/option/S2/logique/sujet.pdf)
 # TPs
 
 - 1- [TP révision OCaml](TPs/mp_opt_1_intro.ipynb) à ouvrir sur [ce lien](https://notebook.basthon.fr/?kernel=ocaml)
