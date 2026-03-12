@@ -16,4 +16,4 @@ title: MP option info
 Les codes Capytale sont donnés
 - 1- TP d'introduction à OCaml dea5-9251985
 - 2- TP arbres 53d0-9628886
-- 3- [basthon](TPs/mpsi_opt_3.ipynb)
+- 3- [TP](TPs/mpsi_opt_3.ipynb) [Correction](TPs/mpsi_opt_3_cor.ipynb)
